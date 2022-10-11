@@ -1,0 +1,25 @@
+{
+  "name": "js-for-react",
+  "version": "1.0.0",
+  "description": "Algunos conceptos básicos de Javascript necesarios para entender mejor frameworks como React, Vue, etc",
+  "main": "ecmas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/es6/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WalterJoel/JS-FOR-REACT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WalterJoel/JS-FOR-REACT/issues"
+  },
+  "homepage": "https://github.com/WalterJoel/JS-FOR-REACT#readme",
+  "dependencies": {
+    "axios": "^1.1.2",
+    "nodemon": "^2.0.20"
+  }
+}
